@@ -1,0 +1,2 @@
+# Real_time_Semi_Partitioned_SIM
+Simulator for multiprocessor semi-partitioned scheduling
